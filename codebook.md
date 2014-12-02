@@ -1,9 +1,3 @@
----
-title: "codebook"
-author: "Marcusje"
-date: "Tuesday, December 02, 2014"
-output: pdf_document
----
 Each row represents a subject performing an activity
 Each column represents a measurement of the subject performing the activity
 
